@@ -12,6 +12,7 @@
 		3C523A6028163949005C7DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C523A5F28163949005C7DAF /* Assets.xcassets */; };
 		3C523A6328163949005C7DAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C523A6228163949005C7DAF /* Preview Assets.xcassets */; };
 		3C523A6A2816398E005C7DAF /* 02Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C523A692816398E005C7DAF /* 02Shape.swift */; };
+		3CBC6AC72817E6E700874903 /* 03Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC62817E6E700874903 /* 03Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3C523A5F28163949005C7DAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C523A6228163949005C7DAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C523A692816398E005C7DAF /* 02Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 02Shape.swift; sourceTree = "<group>"; };
+		3CBC6AC62817E6E700874903 /* 03Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3C523A5B28163948005C7DAF /* SwfitUIStudyApp.swift */,
 				3C523A5D28163948005C7DAF /* 01Text.swift */,
 				3C523A692816398E005C7DAF /* 02Shape.swift */,
+				3CBC6AC62817E6E700874903 /* 03Colors.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				3C523A5E28163948005C7DAF /* 01Text.swift in Sources */,
 				3C523A6A2816398E005C7DAF /* 02Shape.swift in Sources */,
+				3CBC6AC72817E6E700874903 /* 03Colors.swift in Sources */,
 				3C523A5C28163948005C7DAF /* SwfitUIStudyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
