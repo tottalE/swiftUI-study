@@ -15,6 +15,7 @@
 		3CBC6AC72817E6E700874903 /* 03Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC62817E6E700874903 /* 03Colors.swift */; };
 		3CBC6AC9281900EF00874903 /* 04Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC8281900EF00874903 /* 04Gradients.swift */; };
 		3CD582322819651E0094CED0 /* 05Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD582312819651E0094CED0 /* 05Icons.swift */; };
+		3CD5823428196B1B0094CED0 /* 06Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD5823328196B1B0094CED0 /* 06Image.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3CBC6AC62817E6E700874903 /* 03Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03Colors.swift; sourceTree = "<group>"; };
 		3CBC6AC8281900EF00874903 /* 04Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 04Gradients.swift; sourceTree = "<group>"; };
 		3CD582312819651E0094CED0 /* 05Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 05Icons.swift; sourceTree = "<group>"; };
+		3CD5823328196B1B0094CED0 /* 06Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 06Image.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,10 +63,11 @@
 			children = (
 				3C523A5B28163948005C7DAF /* SwfitUIStudyApp.swift */,
 				3C523A5D28163948005C7DAF /* 01Text.swift */,
-				3CD582312819651E0094CED0 /* 05Icons.swift */,
 				3C523A692816398E005C7DAF /* 02Shape.swift */,
 				3CBC6AC62817E6E700874903 /* 03Colors.swift */,
 				3CBC6AC8281900EF00874903 /* 04Gradients.swift */,
+				3CD582312819651E0094CED0 /* 05Icons.swift */,
+				3CD5823328196B1B0094CED0 /* 06Image.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 				3CD582322819651E0094CED0 /* 05Icons.swift in Sources */,
 				3CBC6AC9281900EF00874903 /* 04Gradients.swift in Sources */,
 				3C523A6A2816398E005C7DAF /* 02Shape.swift in Sources */,
+				3CD5823428196B1B0094CED0 /* 06Image.swift in Sources */,
 				3CBC6AC72817E6E700874903 /* 03Colors.swift in Sources */,
 				3C523A5C28163948005C7DAF /* SwfitUIStudyApp.swift in Sources */,
 			);
