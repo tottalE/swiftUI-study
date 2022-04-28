@@ -17,6 +17,7 @@
 		3CD582322819651E0094CED0 /* 05Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD582312819651E0094CED0 /* 05Icons.swift */; };
 		3CD5823428196B1B0094CED0 /* 06Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD5823328196B1B0094CED0 /* 06Image.swift */; };
 		3CD5823628196E0A0094CED0 /* 07Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD5823528196E0A0094CED0 /* 07Frame.swift */; };
+		3CD582382819716C0094CED0 /* 08BackgroundandOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD582372819716C0094CED0 /* 08BackgroundandOverlay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		3CD582312819651E0094CED0 /* 05Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 05Icons.swift; sourceTree = "<group>"; };
 		3CD5823328196B1B0094CED0 /* 06Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 06Image.swift; sourceTree = "<group>"; };
 		3CD5823528196E0A0094CED0 /* 07Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 07Frame.swift; sourceTree = "<group>"; };
+		3CD582372819716C0094CED0 /* 08BackgroundandOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 08BackgroundandOverlay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				3CD582312819651E0094CED0 /* 05Icons.swift */,
 				3CD5823328196B1B0094CED0 /* 06Image.swift */,
 				3CD5823528196E0A0094CED0 /* 07Frame.swift */,
+				3CD582372819716C0094CED0 /* 08BackgroundandOverlay.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C523A5E28163948005C7DAF /* 01Text.swift in Sources */,
+				3CD582382819716C0094CED0 /* 08BackgroundandOverlay.swift in Sources */,
 				3CD582322819651E0094CED0 /* 05Icons.swift in Sources */,
 				3CD5823628196E0A0094CED0 /* 07Frame.swift in Sources */,
 				3CBC6AC9281900EF00874903 /* 04Gradients.swift in Sources */,
