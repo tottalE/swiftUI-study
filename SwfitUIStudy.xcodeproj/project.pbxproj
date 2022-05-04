@@ -26,6 +26,7 @@
 		3CD582382819716C0094CED0 /* _08BackgroundandOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD582372819716C0094CED0 /* _08BackgroundandOverlay.swift */; };
 		3CE3B4F7281FDF0300FF3AAC /* _11Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE3B4F6281FDF0300FF3AAC /* _11Spacer.swift */; };
 		3CF633EB28225DC500B02753 /* _16SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EA28225DC500B02753 /* _16SafeArea.swift */; };
+		3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EC282269B200B02753 /* _17Buttons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		3CD582372819716C0094CED0 /* _08BackgroundandOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _08BackgroundandOverlay.swift; sourceTree = "<group>"; };
 		3CE3B4F6281FDF0300FF3AAC /* _11Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _11Spacer.swift; sourceTree = "<group>"; };
 		3CF633EA28225DC500B02753 /* _16SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _16SafeArea.swift; sourceTree = "<group>"; };
+		3CF633EC282269B200B02753 /* _17Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _17Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				3C4A08E62821F373004D44CF /* _14ScrollView.swift */,
 				3C4A08E82821FE06004D44CF /* _15Grids.swift */,
 				3CF633EA28225DC500B02753 /* _16SafeArea.swift */,
+				3CF633EC282269B200B02753 /* _17Buttons.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -195,6 +198,7 @@
 				3C4A08E52821EF3D004D44CF /* _13ForEachLoops.swift in Sources */,
 				3CF633EB28225DC500B02753 /* _16SafeArea.swift in Sources */,
 				3C2C7508281BC79E0017EA1A /* _09Stacks.swift in Sources */,
+				3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */,
 				3CE3B4F7281FDF0300FF3AAC /* _11Spacer.swift in Sources */,
 				3CBC6AC72817E6E700874903 /* _03Colors.swift in Sources */,
 				3C523A5C28163948005C7DAF /* SwfitUIStudyApp.swift in Sources */,
