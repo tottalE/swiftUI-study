@@ -28,6 +28,7 @@
 		3CF633EB28225DC500B02753 /* _16SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EA28225DC500B02753 /* _16SafeArea.swift */; };
 		3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EC282269B200B02753 /* _17Buttons.swift */; };
 		3CF633EF282271B900B02753 /* _18State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EE282271B900B02753 /* _18State.swift */; };
+		3CF633F12822858A00B02753 /* _19ExtractedFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633F02822858A00B02753 /* _19ExtractedFunction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		3CF633EA28225DC500B02753 /* _16SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _16SafeArea.swift; sourceTree = "<group>"; };
 		3CF633EC282269B200B02753 /* _17Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _17Buttons.swift; sourceTree = "<group>"; };
 		3CF633EE282271B900B02753 /* _18State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _18State.swift; sourceTree = "<group>"; };
+		3CF633F02822858A00B02753 /* _19ExtractedFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _19ExtractedFunction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3CF633EA28225DC500B02753 /* _16SafeArea.swift */,
 				3CF633EC282269B200B02753 /* _17Buttons.swift */,
 				3CF633EE282271B900B02753 /* _18State.swift */,
+				3CF633F02822858A00B02753 /* _19ExtractedFunction.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -204,6 +207,7 @@
 				3C2C7508281BC79E0017EA1A /* _09Stacks.swift in Sources */,
 				3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */,
 				3CE3B4F7281FDF0300FF3AAC /* _11Spacer.swift in Sources */,
+				3CF633F12822858A00B02753 /* _19ExtractedFunction.swift in Sources */,
 				3CBC6AC72817E6E700874903 /* _03Colors.swift in Sources */,
 				3C523A5C28163948005C7DAF /* SwfitUIStudyApp.swift in Sources */,
 				3CA71E402821E9A4000C448F /* _12Initalizer.swift in Sources */,
