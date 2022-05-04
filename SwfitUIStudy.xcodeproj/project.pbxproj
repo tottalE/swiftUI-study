@@ -27,6 +27,7 @@
 		3CE3B4F7281FDF0300FF3AAC /* _11Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE3B4F6281FDF0300FF3AAC /* _11Spacer.swift */; };
 		3CF633EB28225DC500B02753 /* _16SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EA28225DC500B02753 /* _16SafeArea.swift */; };
 		3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EC282269B200B02753 /* _17Buttons.swift */; };
+		3CF633EF282271B900B02753 /* _18State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF633EE282271B900B02753 /* _18State.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		3CE3B4F6281FDF0300FF3AAC /* _11Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _11Spacer.swift; sourceTree = "<group>"; };
 		3CF633EA28225DC500B02753 /* _16SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _16SafeArea.swift; sourceTree = "<group>"; };
 		3CF633EC282269B200B02753 /* _17Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _17Buttons.swift; sourceTree = "<group>"; };
+		3CF633EE282271B900B02753 /* _18State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _18State.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				3C4A08E82821FE06004D44CF /* _15Grids.swift */,
 				3CF633EA28225DC500B02753 /* _16SafeArea.swift */,
 				3CF633EC282269B200B02753 /* _17Buttons.swift */,
+				3CF633EE282271B900B02753 /* _18State.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				3CBC6AC9281900EF00874903 /* _04Gradients.swift in Sources */,
 				3C4A08E72821F373004D44CF /* _14ScrollView.swift in Sources */,
 				3C4A08E92821FE06004D44CF /* _15Grids.swift in Sources */,
+				3CF633EF282271B900B02753 /* _18State.swift in Sources */,
 				3C523A6A2816398E005C7DAF /* _02Shapes.swift in Sources */,
 				3CD5823428196B1B0094CED0 /* _06Image.swift in Sources */,
 				3C4A08E52821EF3D004D44CF /* _13ForEachLoops.swift in Sources */,
