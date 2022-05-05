@@ -12,7 +12,7 @@ struct _0PaddingAndSpacing: View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
             .background(Color.yellow)
             //.padding()
-            .padding(.all, 10) //how much padding want
+            .padding(.all, 10) //how much padding want, Default is 10
             .padding(.leading, 20)
             .background(Color.blue)
         
@@ -26,15 +26,22 @@ struct _0PaddingAndSpacing: View {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
                 .font(.largeTitle)
                 .fontWeight(.semibold)
+                .padding(.bottom, 10)
             
             Text("This is the description of what we will do on this screen. It is multiple lines and we will align  the text to the leading edge")
                 .multilineTextAlignment(.leading) // default
         }
-        .background(Color.blue)
+//        .background(Color.blue)
         .padding()
-        .background(Color.red)
+        .padding(.vertical, 30)
+        .background(
+            Color.white
+                .shadow(color: .black.opacity(0.3),
+                        radius: 10,
+                        x: 0, y: 0)
+        )
         .padding(.horizontal, 10)
-        .background(Color.green)
+//        .background(Color.green)
     }
 }
 
