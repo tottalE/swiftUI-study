@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3C2873BC28251CC20081E25B /* _26Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2873BB28251CC20081E25B /* _26Transition.swift */; };
+		3C2873BE282528AA0081E25B /* _27Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2873BD282528AA0081E25B /* _27Sheets.swift */; };
 		3C2C7508281BC79E0017EA1A /* _09Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2C7507281BC79E0017EA1A /* _09Stacks.swift */; };
 		3C2C750A281CDBB40017EA1A /* _10PaddingAndSpacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2C7509281CDBB40017EA1A /* _10PaddingAndSpacing.swift */; };
 		3C4A08E52821EF3D004D44CF /* _13ForEachLoops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4A08E42821EF3D004D44CF /* _13ForEachLoops.swift */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		3C2873BB28251CC20081E25B /* _26Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _26Transition.swift; sourceTree = "<group>"; };
+		3C2873BD282528AA0081E25B /* _27Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _27Sheets.swift; sourceTree = "<group>"; };
 		3C2C7507281BC79E0017EA1A /* _09Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _09Stacks.swift; sourceTree = "<group>"; };
 		3C2C7509281CDBB40017EA1A /* _10PaddingAndSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _10PaddingAndSpacing.swift; sourceTree = "<group>"; };
 		3C4A08E42821EF3D004D44CF /* _13ForEachLoops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _13ForEachLoops.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				3CE09ECB2824B045004BDF32 /* _24Animation.swift */,
 				3CE09ECD2824B71F004BDF32 /* _25AnimationCurves.swift */,
 				3C2873BB28251CC20081E25B /* _26Transition.swift */,
+				3C2873BD282528AA0081E25B /* _27Sheets.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -230,6 +233,7 @@
 				3CD5823428196B1B0094CED0 /* _06Image.swift in Sources */,
 				3C4A08E52821EF3D004D44CF /* _13ForEachLoops.swift in Sources */,
 				3CF633EB28225DC500B02753 /* _16SafeArea.swift in Sources */,
+				3C2873BE282528AA0081E25B /* _27Sheets.swift in Sources */,
 				3C2C7508281BC79E0017EA1A /* _09Stacks.swift in Sources */,
 				3C2873BC28251CC20081E25B /* _26Transition.swift in Sources */,
 				3CF633ED282269B200B02753 /* _17Buttons.swift in Sources */,
