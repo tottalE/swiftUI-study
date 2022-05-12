@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C048ED9282CD63000E9E25F /* _34TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C048ED8282CD63000E9E25F /* _34TextField.swift */; };
 		3C2873BC28251CC20081E25B /* _26Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2873BB28251CC20081E25B /* _26Transition.swift */; };
 		3C2873BE282528AA0081E25B /* _27Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2873BD282528AA0081E25B /* _27Sheets.swift */; };
 		3C2873C028252DE80081E25B /* _28Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2873BF28252DE80081E25B /* _28Popover.swift */; };
@@ -46,6 +47,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C048ED8282CD63000E9E25F /* _34TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _34TextField.swift; sourceTree = "<group>"; };
 		3C2873BB28251CC20081E25B /* _26Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _26Transition.swift; sourceTree = "<group>"; };
 		3C2873BD282528AA0081E25B /* _27Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _27Sheets.swift; sourceTree = "<group>"; };
 		3C2873BF28252DE80081E25B /* _28Popover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _28Popover.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				3CEDB69F2829EB270003A470 /* _31Alert.swift */,
 				3CEDB6A12829FADD0003A470 /* _32ActionSheet.swift */,
 				3CEDB6A3282CA4950003A470 /* _33ContextMenu.swift */,
+				3C048ED8282CD63000E9E25F /* _34TextField.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -244,6 +247,7 @@
 				3CEDB6A4282CA4960003A470 /* _33ContextMenu.swift in Sources */,
 				3C71261D2823E01F00E45795 /* _23TernaryOperarters.swift in Sources */,
 				3CD5823628196E0A0094CED0 /* _07Frame.swift in Sources */,
+				3C048ED9282CD63000E9E25F /* _34TextField.swift in Sources */,
 				3CBC6AC9281900EF00874903 /* _04Gradients.swift in Sources */,
 				3CE09ECC2824B045004BDF32 /* _24Animation.swift in Sources */,
 				3C4A08E72821F373004D44CF /* _14ScrollView.swift in Sources */,
