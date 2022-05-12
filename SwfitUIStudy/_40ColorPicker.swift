@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct _38ColorPicker: View {
+struct _40ColorPicker: View {
     
     @State var backgroundColor: Color = .green
     
@@ -29,8 +29,8 @@ struct _38ColorPicker: View {
     }
 }
 
-struct _38ColorPicker_Previews: PreviewProvider {
+struct _40ColorPicker_Previews: PreviewProvider {
     static var previews: some View {
-        _38ColorPicker()
+        _40ColorPicker()
     }
 }
