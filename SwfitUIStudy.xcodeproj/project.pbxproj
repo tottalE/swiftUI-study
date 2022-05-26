@@ -39,6 +39,7 @@
 		3C969C52283E670F00C45146 /* _49TabGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C51283E670E00C45146 /* _49TabGesture.swift */; };
 		3C969C54283E69F900C45146 /* _50Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C53283E69F900C45146 /* _50Model.swift */; };
 		3C969C57283F46B400C45146 /* _51ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C56283F46B300C45146 /* _51ViewModel.swift */; };
+		3C969C59284036A000C45146 /* _52EnvironmentObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C58284036A000C45146 /* _52EnvironmentObject.swift */; };
 		3CA71E402821E9A4000C448F /* _12Initalizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA71E3F2821E9A4000C448F /* _12Initalizer.swift */; };
 		3CBC6AC72817E6E700874903 /* _03Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC62817E6E700874903 /* _03Colors.swift */; };
 		3CBC6AC9281900EF00874903 /* _04Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC8281900EF00874903 /* _04Gradients.swift */; };
@@ -95,6 +96,7 @@
 		3C969C51283E670E00C45146 /* _49TabGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _49TabGesture.swift; sourceTree = "<group>"; };
 		3C969C53283E69F900C45146 /* _50Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _50Model.swift; sourceTree = "<group>"; };
 		3C969C56283F46B300C45146 /* _51ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _51ViewModel.swift; sourceTree = "<group>"; };
+		3C969C58284036A000C45146 /* _52EnvironmentObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _52EnvironmentObject.swift; sourceTree = "<group>"; };
 		3CA71E3F2821E9A4000C448F /* _12Initalizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _12Initalizer.swift; sourceTree = "<group>"; };
 		3CBC6AC62817E6E700874903 /* _03Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _03Colors.swift; sourceTree = "<group>"; };
 		3CBC6AC8281900EF00874903 /* _04Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _04Gradients.swift; sourceTree = "<group>"; };
@@ -197,6 +199,7 @@
 				3C969C51283E670E00C45146 /* _49TabGesture.swift */,
 				3C969C53283E69F900C45146 /* _50Model.swift */,
 				3C969C56283F46B300C45146 /* _51ViewModel.swift */,
+				3C969C58284036A000C45146 /* _52EnvironmentObject.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -300,6 +303,7 @@
 				3C048ED9282CD63000E9E25F /* _34TextField.swift in Sources */,
 				3C969C52283E670F00C45146 /* _49TabGesture.swift in Sources */,
 				3CBC6AC9281900EF00874903 /* _04Gradients.swift in Sources */,
+				3C969C59284036A000C45146 /* _52EnvironmentObject.swift in Sources */,
 				3C2ADE30282D25AA00603208 /* _39DatePicker.swift in Sources */,
 				3C048EDB282CE19500E9E25F /* _35TextEditor.swift in Sources */,
 				3CE09ECC2824B045004BDF32 /* _24Animation.swift in Sources */,
