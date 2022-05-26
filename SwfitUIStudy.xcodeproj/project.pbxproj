@@ -38,6 +38,7 @@
 		3C969C50283CE12800C45146 /* _48IfLetGuard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C4F283CE12800C45146 /* _48IfLetGuard.swift */; };
 		3C969C52283E670F00C45146 /* _49TabGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C51283E670E00C45146 /* _49TabGesture.swift */; };
 		3C969C54283E69F900C45146 /* _50Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C53283E69F900C45146 /* _50Model.swift */; };
+		3C969C57283F46B400C45146 /* _51ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C969C56283F46B300C45146 /* _51ViewModel.swift */; };
 		3CA71E402821E9A4000C448F /* _12Initalizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA71E3F2821E9A4000C448F /* _12Initalizer.swift */; };
 		3CBC6AC72817E6E700874903 /* _03Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC62817E6E700874903 /* _03Colors.swift */; };
 		3CBC6AC9281900EF00874903 /* _04Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CBC6AC8281900EF00874903 /* _04Gradients.swift */; };
@@ -93,6 +94,7 @@
 		3C969C4F283CE12800C45146 /* _48IfLetGuard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _48IfLetGuard.swift; sourceTree = "<group>"; };
 		3C969C51283E670E00C45146 /* _49TabGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _49TabGesture.swift; sourceTree = "<group>"; };
 		3C969C53283E69F900C45146 /* _50Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _50Model.swift; sourceTree = "<group>"; };
+		3C969C56283F46B300C45146 /* _51ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _51ViewModel.swift; sourceTree = "<group>"; };
 		3CA71E3F2821E9A4000C448F /* _12Initalizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _12Initalizer.swift; sourceTree = "<group>"; };
 		3CBC6AC62817E6E700874903 /* _03Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _03Colors.swift; sourceTree = "<group>"; };
 		3CBC6AC8281900EF00874903 /* _04Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _04Gradients.swift; sourceTree = "<group>"; };
@@ -194,6 +196,7 @@
 				3C969C4F283CE12800C45146 /* _48IfLetGuard.swift */,
 				3C969C51283E670E00C45146 /* _49TabGesture.swift */,
 				3C969C53283E69F900C45146 /* _50Model.swift */,
+				3C969C56283F46B300C45146 /* _51ViewModel.swift */,
 				3C523A5F28163949005C7DAF /* Assets.xcassets */,
 				3C523A6128163949005C7DAF /* Preview Content */,
 			);
@@ -284,6 +287,7 @@
 				3C969C50283CE12800C45146 /* _48IfLetGuard.swift in Sources */,
 				3C523A5E28163948005C7DAF /* _01Text.swift in Sources */,
 				3CEDB6A02829EB270003A470 /* _31Alert.swift in Sources */,
+				3C969C57283F46B400C45146 /* _51ViewModel.swift in Sources */,
 				3CD582382819716C0094CED0 /* _08BackgroundandOverlay.swift in Sources */,
 				3C7126152823525900E45795 /* _20ExtractSubViews.swift in Sources */,
 				3C62B92828333E53001B9A28 /* _45DarkMode.swift in Sources */,
