@@ -11,6 +11,7 @@ struct _53AppStorage: View {
     
 //    @State var currentUserName: String?
     @AppStorage("name") var currentUserName: String?
+    // 다른 view에서도 접근 가능
     
     var body: some View {
         
