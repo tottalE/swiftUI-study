@@ -11,7 +11,7 @@ import SwiftUI
 struct SwfitUIStudyApp: App {
     var body: some Scene {
         WindowGroup {
-            _53AppStorage()
+            IntroView()
         }
     }
 }
